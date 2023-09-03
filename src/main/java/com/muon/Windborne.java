@@ -17,6 +17,6 @@ public class Windborne implements ModInitializer {
 		// However, some things (like resources) may still be uninitialized.
 		// Proceed with mild caution.
 
-		LOGGER.info("Loading Windborne Origins");
+		LOGGER.info("Loading Windborne");
 	}
 }

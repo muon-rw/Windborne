@@ -3,7 +3,7 @@
   "origin.windborne.icarae.name": "Icarae",
   "origin.windborne.icarae.description": "Carnivorous bird people, Icarae fly low to the ground, weaving between and through obstacles to hunt their prey.",
   "power.windborne.icarae/wings.name": "Feathered",
-  "power.windborne.icarae/wings.description": "Icarae are born with white feathered wings, capable of propelling themselves upward.\n\nHowever, this exhausts a lot of hunger, and they can't fly when low on energy.",
+  "power.windborne.icarae/wings.description": "Icarae are born with white feathered wings, and are quicker in the air than all others and capable of propelling themselves upward.\n\nHowever, this exhausts a lot of hunger, and they can't fly when low on energy.",
   "power.windborne.icarae/hollow_boned.name": "Hollow Boned",
-  "power.windborne.icarae/hollow_boned.description": "To achieve flight, Icarae evolved a hollow bone structure, similar to birds.\n\nThis leaves them more vulnerable to damage."
+  "power.windborne.icarae/hollow_boned.description": "Icarae evolved hollow bones for speed and efficiency, but this has left them more vulnerable to damage."
 }

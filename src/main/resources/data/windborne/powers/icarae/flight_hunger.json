@@ -4,7 +4,7 @@
     "modifier": {
         "name": "Increased exhaustion",
         "operation": "multiply_base",
-        "value": 2.0
+        "value": 3.0
     },
 	"condition": {
 		"type": "origins:fall_flying"

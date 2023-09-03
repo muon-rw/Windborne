@@ -3,7 +3,7 @@
 	"id": "windborne",
 	"version": "${version}",
 	"name": "Windborne",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "Balance oriented, fantasy themed, winged Origins",
 	"authors": [
 		"Muon"
 	],
@@ -19,9 +19,6 @@
 			"com.muon.Windborne"
 		]
 	},
-	"mixins": [
-		"windborne.mixins.json"
-	],
 	"depends": {
 		"fabricloader": ">=0.14.22",
 		"minecraft": "~1.20.1",
