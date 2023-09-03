@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "origins": [
+     "windborne:icarae",
+     "windborne:entelexeia",
+     "windborne:sculk_moth",
+     "windborne:moss_sprite"
+  ]
+}
